@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name               = "TalkingDataAdTracking"
-  s.version            = "4.0.9"
+  s.version            = "4.0.13"
   s.summary            = "TalkingData AdTracking"
   s.homepage           = "https://www.talkingdata.com/"
   s.license            = "MIT"
